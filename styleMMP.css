@@ -1,0 +1,26 @@
+h1{color: #636786; font-family:courier new; text-align: center}
+h2{color: #636786; font-family:courier new; text-align: center}
+body{background-color: #9c9879}
+p{	
+	font-family: "Lucida Console", Monaco, monospace;
+	text-align: left;
+	color: #ffffff;
+	}
+li{
+	font-family: 
+	}
+
+a:link{
+	text-decoration: none;
+	color: #636786;
+	font-family:courier new;
+	text-align: center;
+	}	
+
+a:visited{
+	color: #636786;
+	}
+
+a:hover{
+	color: #ffffff;
+	}
